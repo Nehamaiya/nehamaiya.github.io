@@ -1034,11 +1034,6 @@ img.svg{
 .nmaiya_tm_list_wrap[data-space="80"] ul.total > li{padding-left: 80px; margin-bottom: 80px;}
 
 
-
-
-
-/* PORTFOLIO LIST */
-
 .nmaiya_tm_portfolio_list{
 	list-style-type:none;
 	margin: 0px 0px 0px -30px;
@@ -1137,11 +1132,6 @@ img.svg{
 .nmaiya_tm_universal_box_wrap .overlay_color.testimonial{background-color: #f5f5f5;}
 .nmaiya_tm_universal_box_wrap .content.testimonial{padding-bottom: 95px;padding-top: 92px;}
 
-
-
-
-
-
 .nmaiya_tm_counter_list{
 	list-style-type:none;
 	width:100%;
@@ -1199,9 +1189,6 @@ img.svg{
 	display: block;
 	font-weight: 600;
 }
-
-
-
 
 .nmaiya_tm_news_wrap{
 	width: 100%;
@@ -1506,15 +1493,6 @@ img.svg{
 	transform: rotate(135deg);
 }
 
-
-
-
-
-
-
-
-
-
 .nmaiya_tm_footer_wrap{
 	width: 100%;
 	height: auto;
@@ -1549,11 +1527,6 @@ img.svg{
 	bottom: 100px;
 }
 
-
-
-
-
-
 .glitch{
 	position: absolute;
  	width: 100%;
@@ -1576,8 +1549,6 @@ img.svg{
 	left: 0px;
 	right: 0px;
 }
-
-
 .nmaiya_tm_kenburn_nmain{
 	width: 100%;
 	height: 100vh;
@@ -1594,7 +1565,6 @@ img.svg{
 	right: 0px;
 	background-color: rgba(0,0,0,.6);
 }
-
 .nmaiya_tm_nmain_header .bottom.shape{
 	position: absolute;
     bottom: -40px;
@@ -1638,10 +1608,6 @@ img.svg{
 	background-size: cover;
 	border-radius: 100%;
 }
-
-
-
-
 .nmaiya_tm_intro_universal_bg_wrap{
 	width: 100%;
 	height: auto;
@@ -1832,12 +1798,6 @@ img.svg{
 	font-size: 16px;
 	padding: 5px 45px;
 }
-
-
-
-
-
-
 
 @media (max-width: 1200px) {
 	.nmaiya_tm_list_wrap[data-column="5"] ul.total > li{width: 25%;}
