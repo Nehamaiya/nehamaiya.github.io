@@ -662,7 +662,7 @@ img.svg{
 }
 
 .nmaiya_tm_main_title_holder.education{margin-bottom: 85px;}
-.nmaiya_tm_main_title_holder.testimonials{margin-bottom: 95px;}
+.nmaiya_tm_main_title_holder.educationals{margin-bottom: 95px;}
 .nmaiya_tm_main_title_holder.news{margin-bottom: 95px;}
 .nmaiya_tm_main_title_holder.contact{margin-bottom: 67px;}
 .nmaiya_tm_main_title_holder.about{
@@ -1123,7 +1123,7 @@ img.svg{
 
 
 
-.nmaiya_tm_testimonial_wrap{
+.nmaiya_tm_educational_wrap{
 	width: 100%;
 	height: auto;
 	clear: both;
@@ -1133,9 +1133,9 @@ img.svg{
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
 			box-sizing: border-box; /* Opera/IE 8+ */ 
 }
-/*.nmaiya_tm_universal_box_wrap .overlay_image.testimonial{background-image: url(..//img/jarallax/1.jpg);}*/
-.nmaiya_tm_universal_box_wrap .overlay_color.testimonial{background-color: #f5f5f5;}
-.nmaiya_tm_universal_box_wrap .content.testimonial{padding-bottom: 95px;padding-top: 92px;}
+/*.nmaiya_tm_universal_box_wrap .overlay_image.educational{background-image: url(..//img/jarallax/1.jpg);}*/
+.nmaiya_tm_universal_box_wrap .overlay_color.educational{background-color: #f5f5f5;}
+.nmaiya_tm_universal_box_wrap .content.educational{padding-bottom: 95px;padding-top: 92px;}
 
 
 

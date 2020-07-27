@@ -334,7 +334,7 @@ function nmaiya_tm_owl_carousel(){
 	
 	"use strict";
 	
-	var carusel2			= jQuery('.nmaiya_tm_testimonial_wrap .owl-carousel');
+	var carusel2			= jQuery('.nmaiya_tm_educational_wrap .owl-carousel');
   	carusel2.owlCarousel({
 		loop:true,
 		margin:70,
