@@ -406,7 +406,9 @@ function nmaiya_tm_animate_text(){
 // 			startDelay: 1e3,
 // 			backDelay: 2e3
 // 		});
-// }
+
+
+}
 
 
 
