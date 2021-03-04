@@ -392,21 +392,21 @@ function nmaiya_tm_animate_text(){
 	var animateSpan			= jQuery('.nmaiya_tm_animation_text_word');
 	
 		animateSpan.typed({
-			strings: ["Neha Maiya", "Graduate Student in CSUS", "Full Stack Developer"],
+			strings: ["Neha Maiya", "Technical Program Manager", "Graduate Student in CSUS"],
 			loop: true,
 			startDelay: 1e3,
 			backDelay: 2e3
 		});
 	
-	var animateSpan2			= jQuery('.nmaiya_tm_animation_text_word_2');
+// 	var animateSpan2			= jQuery('.nmaiya_tm_animation_text_word_2');
 	
-		animateSpan2.typed({
-			strings: ["Graduate Teaching Assitant", ""],
-			loop: true,
-			startDelay: 1e3,
-			backDelay: 2e3
-		});
-}
+// 		animateSpan2.typed({
+// 			strings: ["Program Manager", ""],
+// 			loop: true,
+// 			startDelay: 1e3,
+// 			backDelay: 2e3
+// 		});
+// }
 
 
 
